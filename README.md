@@ -4,7 +4,7 @@ Rigorous 2 PL concurrency control protocol with cautious waiting and wait-die fo
 We have implemented Cautious wait and Wait die concurreny control protocol.
 Both protocols have separate application file.
 
-Programming language:
+# Programming Language:
 
 Python: 3.8
 

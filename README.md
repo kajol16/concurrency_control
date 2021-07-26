@@ -19,3 +19,8 @@ Python: 3.8
 4. Output file with given name will be created. Prior creation of output file is not needed
 E.g. python3 wait_die.py input1.txt output1_wd.txt
 E.g. python3 cautious_wait.py input1.txt output1_cw.txt
+
+# References
+1. https://newbedev.com/what-is-the-difference-between-wait-die-and-wound-wait-deadlock-prevention-algorithms
+2. https://github.com/chaitanya-sardesai/2-phase-lock-rigorous/blob/master/src/rigorous_2pl.py
+3. https://github.com/sksq96/conservative-two-phase-locking

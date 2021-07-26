@@ -1,4 +1,4 @@
-# concurrency_control
+# Concurrency Control
 Rigorous 2 PL concurrency control protocol with cautious waiting and wait-die for dealing with deadlock
 
 We have implemented Cautious wait and Wait die concurreny control protocol.
